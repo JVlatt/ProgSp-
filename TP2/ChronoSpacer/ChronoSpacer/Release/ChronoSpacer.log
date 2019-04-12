@@ -1,0 +1,8 @@
+﻿  Battle.cpp
+c:\users\matt\desktop\cours\prog spé s2\tp2\chronospacer\chronospacer\battle.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Release\ChronoSpacer.pch' : No such file or directory
+  ChronoSpacer.cpp
+c:\users\matt\desktop\cours\prog spé s2\tp2\chronospacer\chronospacer\chronospacer.cpp(4): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Release\ChronoSpacer.pch' : No such file or directory
+  Round.cpp
+c:\users\matt\desktop\cours\prog spé s2\tp2\chronospacer\chronospacer\round.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Release\ChronoSpacer.pch' : No such file or directory
+  stdafx.cpp
+c:\users\matt\desktop\cours\prog spé s2\tp2\chronospacer\chronospacer\stdafx.cpp(5): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Release\ChronoSpacer.pch' : No such file or directory
